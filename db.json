@@ -1,0 +1,304 @@
+{
+   "reserv": [
+    {
+      "id": 1,
+      "title": "اجاره کلبه استخردار",
+      "img": "/img/507/3.jpeg",
+      "imgsSliders": [
+        [
+          "/img/507/2.jpeg"
+        ]
+      ],
+      "imgsSliders2": [
+        [
+          "/img/507/3.jpeg"
+        ]
+      ],
+      "imgsSliders3": [
+        [
+          "/img/507/4.jpeg"
+        ]
+      ],
+      "imgsSliders4": [
+        [
+          "/img/507/5.jpeg"
+        ]
+      ],
+      "imgsSliders5": [
+        [
+          "/img/507/6.jpeg"
+        ]
+      ],
+      "imgsSliders6": [
+        [
+          "/img/507/7.jpeg"
+        ]
+      ],
+      "imgsSliders7": [
+        "/img/507/8.jpeg"
+      ],
+      "imgsSliders8": [
+        "/img/507/9.jpeg"
+      ],
+      "imgsSliders9": [
+        "/img/507/10.jpeg"
+      ],
+      "author": " کد ۷۰۱",
+      "data": "تقویم",
+      "code": "کد 701",
+      "path": "/luxury/1",
+      "TitelReserv": "رزرو کلبه استخردار جنگلی کد ۷۰۱ در چهارباغ - آغچه حصار",
+      "TitelAbout": "این ویلا دو خوابه که یک خواب آن مستر می باشد با استخر سرپوشیده آبگرم و حیاطی دلباز در محیطی امن در شهرک درخشان در روستای آغچه حصار واقع شده است که تا کردان حدود 15 کیلومتر و تا کرج حدود 25 کیلومتر فاصله دارد.",
+      "StandardCapacity": "5 نفر",
+      "Maximumcapacity": "12 نفر",
+      "Meterage": "450 متر",
+      "residence": "ویلایی",
+      "bed1": "1 تخت 1 نفره",
+      "bed2": "1 تخت 2 نفره",
+      "priecs": "هر شب از 4500,000",
+      "titels": "سایر اقامتگاه های ساحلی",
+      "description": "ممتاز",
+      "authors": "5خوابه. 650 متر .تا 30 مهمان"
+    },
+    {
+      "id": 2,
+      "title": "ویلا ۳ خواب جنگلی استخردار",
+      "img": "/img/190/10.jpeg",
+      "imgsSliders": [
+        [
+          "/img/190/2.jpeg"
+        ]
+      ],
+      "imgsSliders2": [
+        [
+          "/img/190/3.jpeg"
+        ]
+      ],
+      "imgsSliders3": [
+        [
+          "/img/190/4.jpeg"
+        ]
+      ],
+      "imgsSliders4": [
+        [
+          "/img/190/5.jpeg"
+        ]
+      ],
+      "imgsSliders5": [
+        [
+          "/img/190/6.jpeg"
+        ]
+      ],
+      "imgsSliders6": [
+        [
+          "/img/190/7.jpeg"
+        ]
+      ],
+      "imgsSliders7": [
+        "/img/190/8.jpeg"
+      ],
+      "imgsSliders8": [
+        "/img/190/9.jpeg"
+      ],
+      "imgsSliders9": [
+        "/img/190/10.jpeg"
+      ],
+      "author": " کد 190",
+      "data": "تقویم",
+      "code": "کد 190",
+      "path": "/luxury/2",
+      "TitelReserv": "رزرو کلبه استخردار جنگلی کد 190 در چهارباغ - آغچه حصار",
+      "TitelAbout": "این ویلا دو خوابه که یک خواب آن مستر می باشد با استخر سرپوشیده آبگرم و حیاطی دلباز در محیطی امن در شهرک درخشان در روستای آغچه حصار واقع شده است که تا کردان حدود 15 کیلومتر و تا کرج حدود 25 کیلومتر فاصله دارد.",
+      "StandardCapacity": "5 نفر",
+      "Maximumcapacity": "12 نفر",
+      "Meterage": "450 متر",
+      "residence": "ویلایی",
+      "bed1": "1 تخت 1 نفره",
+      "bed2": "1 تخت 2 نفره",
+      "priecs": "هر شب از 4500,000",
+      "titels": "سایر اقامتگاه های ساحلی",
+      "description": "ممتاز",
+      "authors": "5خوابه. 650 متر .تا 30 مهمان"
+    },
+    {
+      "id": 3,
+      "title": "ویلا ۳ خواب جنگلی استخردار",
+      "img": "/img/170/2.jpeg",
+      "imgsSliders": [
+        [
+          "/img/170/2.jpeg"
+        ]
+      ],
+      "imgsSliders2": [
+        [
+          "/img/170/3.jpeg"
+        ]
+      ],
+      "imgsSliders3": [
+        [
+          "/img/170/4.jpeg"
+        ]
+      ],
+      "imgsSliders4": [
+        [
+          "/img/170/5.jpeg"
+        ]
+      ],
+      "imgsSliders5": [
+        [
+          "/img/170/6.jpeg"
+        ]
+      ],
+      "imgsSliders6": [
+        [
+          "/img/170/7.jpeg"
+        ]
+      ],
+      "imgsSliders7": [
+        "/img/170/8.jpeg"
+      ],
+      "imgsSliders8": [
+        "/img/170/9.jpeg"
+      ],
+      "imgsSliders9": [
+        "/img/170/10.jpeg"
+      ],
+      "author": " کد ۱۷۰",
+      "data": "تقویم",
+      "code": "کد ۱۷۰",
+      "path": "/luxury/3",
+      "TitelReserv": "رزرو کلبه استخردار جنگلی کد 170 در چهارباغ - آغچه حصار",
+      "TitelAbout": "این ویلا دو خوابه که یک خواب آن مستر می باشد با استخر سرپوشیده آبگرم و حیاطی دلباز در محیطی امن در شهرک درخشان در روستای آغچه حصار واقع شده است که تا کردان حدود 15 کیلومتر و تا کرج حدود 25 کیلومتر فاصله دارد.",
+      "StandardCapacity": "5 نفر",
+      "Maximumcapacity": "12 نفر",
+      "Meterage": "450 متر",
+      "residence": "ویلایی",
+      "bed1": "1 تخت 1 نفره",
+      "bed2": "1 تخت 2 نفره",
+      "priecs": "هر شب از 4500,000",
+      "titels": "سایر اقامتگاه های ساحلی",
+      "description": "ممتاز",
+      "authors": "5خوابه. 650 متر .تا 30 مهمان"
+    },
+    {
+      "id": 4,
+      "title": "ویلا 3 خواب جنگلی",
+      "img": "/img/1008/6.jpeg",
+      "imgsSliders": [
+        [
+          "/img/330/2.jpeg"
+        ]
+      ],
+      "imgsSliders2": [
+        [
+          "/img/330/3.jpeg"
+        ]
+      ],
+      "imgsSliders3": [
+        [
+          "/img/330/4.jpeg"
+        ]
+      ],
+      "imgsSliders4": [
+        [
+          "/img/330/5.jpeg"
+        ]
+      ],
+      "imgsSliders5": [
+        [
+          "/img/330/6.jpeg"
+        ]
+      ],
+      "imgsSliders6": [
+        [
+          "/img/330/7.jpeg"
+        ]
+      ],
+      "imgsSliders7": [
+        "/img/330/8.jpeg"
+      ],
+      "imgsSliders8": [
+        "/img/330/9.jpeg"
+      ],
+      "imgsSliders9": [
+        "/img/330/10.jpeg"
+      ],
+      "author": " کد ۳۳۰",
+      "data": "تقویم",
+      "code": "کد ۳۳۰",
+      "path": "/luxury/4",
+      "TitelReserv": "رزرو کلبه استخردار جنگلی کد ۳۳۰ در چهارباغ - آغچه حصار",
+      "TitelAbout": "این ویلا دو خوابه که یک خواب آن مستر می باشد با استخر سرپوشیده آبگرم و حیاطی دلباز در محیطی امن در شهرک درخشان در روستای آغچه حصار واقع شده است که تا کردان حدود 15 کیلومتر و تا کرج حدود 25 کیلومتر فاصله دارد.",
+      "StandardCapacity": "5 نفر",
+      "Maximumcapacity": "12 نفر",
+      "Meterage": "450 متر",
+      "residence": "ویلایی",
+      "bed1": "1 تخت 1 نفره",
+      "bed2": "1 تخت 2 نفره",
+      "priecs": "هر شب از 4500,000",
+      "titels": "سایر اقامتگاه های ساحلی",
+      "description": "ممتاز",
+      "authors": "۷. 650 متر .تا 30 مهمان"
+    },
+    {
+      "id": 5,
+      "title": "ویلا ۴ خواب استخردار",
+      "img": "/img/802/1.jpeg",
+      "imgsSliders": [
+        [
+          "/img/802/2.jpeg"
+        ]
+      ],
+      "imgsSliders2": [
+        [
+          "/img/802/3.jpeg"
+        ]
+      ],
+      "imgsSliders3": [
+        [
+          "/img/802/4.jpeg"
+        ]
+      ],
+      "imgsSliders4": [
+        [
+          "/img/802/5.jpeg"
+        ]
+      ],
+      "imgsSliders5": [
+        [
+          "/img/802/6.jpeg"
+        ]
+      ],
+      "imgsSliders6": [
+        [
+          "/img/802/7.jpeg"
+        ]
+      ],
+      "imgsSliders7": [
+        "/img/802/8.jpeg"
+      ],
+      "imgsSliders8": [
+        "/img/802/9.jpeg"
+      ],
+      "imgsSliders9": [
+        "/img/802/10.jpeg"
+      ],
+      "author": " کد ۸۰۲",
+      "data": "تقویم",
+      "code": "کد ۸۰۲",
+      "path": "/luxury/5",
+      "TitelReserv": "رزرو کلبه استخردار جنگلی کد ۸۰۲ در چهارباغ - آغچه حصار",
+      "TitelAbout": "این ویلا دو خوابه که یک خواب آن مستر می باشد با استخر سرپوشیده آبگرم و حیاطی دلباز در محیطی امن در شهرک درخشان در روستای آغچه حصار واقع شده است که تا کردان حدود 15 کیلومتر و تا کرج حدود 25 کیلومتر فاصله دارد.",
+      "StandardCapacity": "5 نفر",
+      "Maximumcapacity": "12 نفر",
+      "Meterage": "450 متر",
+      "residence": "ویلایی",
+      "bed1": "1 تخت 1 نفره",
+      "bed2": "1 تخت 2 نفره",
+      "priecs": "هر شب از 4500,000",
+      "titels": "سایر اقامتگاه های ساحلی",
+      "description": "ممتاز",
+      "authors": "۴. 650 متر .تا 30 مهمان"
+    }
+  ]
+}
